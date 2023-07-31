@@ -3,7 +3,8 @@ import java.util.Scanner;
 
 public class atm {
     /*
-    ATM
+
+    ATM.
 Kullanicidan giriş için kart numarasi ve şifresini isteyin, eger herhangi birini yanlis girerse tekrar isteyin.
 Kart numarasi aralarda boşluk ile girerse de eger doğruysa kabul edin.
 Kart numarasi ve sifre dogrulanirsa kullanicinin yapabileceği işlemleri ekrana yazdirin,
